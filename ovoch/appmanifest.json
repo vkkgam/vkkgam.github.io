@@ -1,0 +1,10 @@
+{
+	"name": "ОВОЩНАЯ ЦЕПОЧКА",
+	"short_name": "ОВОЩНАЯ ЦЕПОЧКА",
+	"description": "liniizhivotnii",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
